@@ -3,7 +3,11 @@ sing namespace std;
 
 int main(){
 
+<<<<<<< HEAD
+    cout<< "Heeeello World!";
+=======
     cout<< "Hello World...!";
+>>>>>>> aadarsh
 
 
     return 0;
